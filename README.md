@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @hamadecd
-- 👀 I'm interested in programming, in knowing how to do test automation.
-- 🌱 I'm currently learning java, about the commands of Git, JUnit, Selenium, and about quality of tests.
-- 💞️ I try to collaborate with test automation, manual tests, development documentation.
-- 📫 To contact me, just send me an email at samircd9@gmail.com
+# Samir Hamadé Rocha
+Em transição de carreira para Analista de Qualidade de Software. Sou graduado em Gestão da Tecnologia da Informação pela UNIFRAN.
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samir-hamade/)
+
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamadecd&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!---
 hamadecd/hamadecd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
